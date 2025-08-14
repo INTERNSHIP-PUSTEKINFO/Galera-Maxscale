@@ -18,4 +18,5 @@ Teknologi ini digunakan untuk menciptakan **High Availability** pada sistem basi
 
 ---
 
-## 📂 Arsitektur
+## 📂 Arsitektur Proyek
+<p align="center"><img src="open/arsi.png" /></p>
