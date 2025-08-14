@@ -3,7 +3,7 @@
 <img src="open/head.jpg" />
 <br>
 
-             selamat mencoba dan mengerjakan 
+<p align="center">selamat mencoba dan mengerjakan</p>
 
 ---
 
@@ -14,12 +14,7 @@ Teknologi ini digunakan untuk menciptakan **High Availability** pada sistem basi
 ---
 
 ## 🛠️ Teknologi yang Digunakan
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MaxScale-FF6C37?style=for-the-badge&logo=mariadb&logoColor=white" />
-<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" /> 
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Ubuntu%2022.04-EE7738?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/MaxScale-FF6C37?style=for-the-badge&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu%2022.04-EE7738?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
 
 ---
 
