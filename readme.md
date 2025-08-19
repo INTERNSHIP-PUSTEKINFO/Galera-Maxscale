@@ -21,3 +21,8 @@ Teknologi ini digunakan untuk menciptakan **High Availability** pada sistem basi
 ## 📂 Arsitektur Proyek
 <p align="center"><img src="open/arsi.png" width="350" /></p>
 
+## 📑 Tata Cara Instalasi 
+Untuk mengetahui apa saja yang perlu dipersiapkan dan langkah langkah nya kalian bisa baca pdf dibawah ini :
+
+
+[Klik Disini](open/TutorialInstalasi.pdf)
