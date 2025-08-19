@@ -25,4 +25,4 @@ Teknologi ini digunakan untuk menciptakan **High Availability** pada sistem basi
 Untuk mengetahui apa saja yang perlu dipersiapkan dan langkah langkah nya kalian bisa baca pdf dibawah ini :
 
 
-[Klik Disini](open/TutorialInstalasi.pdf)
+[Klik Disini](open/TutorInstallasi.pdf)
